@@ -1,4 +1,4 @@
-# mars
+# Mars App
 #### Build 
 ` mvn clean package`
 #### Run with Maven plugin
